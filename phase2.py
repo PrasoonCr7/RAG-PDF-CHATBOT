@@ -16,8 +16,8 @@ from langchain.chains import RetrievalQA # retrieve the most relevant chunks
 
 
 # Set the API key securely (temporary, better via .env or Streamlit secrets)
-#os.environ["GROQ_API_KEY"] = "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"
 os.environ["GROQ_API_KEY"] = "Enter Your GROQ API Key"
+
 # Title of the app
 st.title("RAG Chatbot !")  # title
 
