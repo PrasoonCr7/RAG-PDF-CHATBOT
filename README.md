@@ -2,7 +2,8 @@
 This is a simple yet powerful Retrieval-Augmented Generation (RAG) chatbot built with LangChain, Streamlit, and Groq's LLaMA3 model. The chatbot reads a PDF document and allows users to ask questions, generating accurate, context aware answers by retrieving the most relevant content chunks.
 
 
-🤖 RAG Chatbot with Groq, LangChain & Streamlit
+🤖 RAG Chatbot with Groq, LangChain & Streamlit :
+
 A smart, lightweight PDF-based RAG chatbot that lets users ask questions from a document and get precise answers using LangChain's retrieval pipeline and Groq’s blazing-fast LLaMA3 model — all wrapped in a simple Streamlit UI.
 
 📌 Features
